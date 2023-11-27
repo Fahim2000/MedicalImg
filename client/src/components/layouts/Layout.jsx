@@ -14,8 +14,8 @@ const HeaderAppBar = () => {
     <AppBar position='static' style={{ backgroundColor: 'white' }}>
       <Toolbar>
         <Box display='flex' justifyContent='space-between' alignItems='center' width='100%'>
-          <a href='/'>
-            <img src={logo} alt='med-chain-logo' style={{ height: 20, weight: 20 }} />
+          <a href='/' style={{ textDecoration: 'none' }}>
+            <h1 style={{ color: 'teal', fontSize: '36px' }}>MedImg</h1>
           </a>
           <Box flexGrow={1} />
           <Box display='flex' alignItems='center'>

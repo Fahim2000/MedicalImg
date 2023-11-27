@@ -105,10 +105,10 @@ const Home = () => {
           />
         </Box>
         <Box id='home-page-box' display='flex' flexDirection='column' justifyContent='center' alignItems='center' p={5}>
-          <img src={logo} alt='med-chain-logo' style={{ height: 50 }} />
+          <h1 style={{ color: '#50D0D0', fontSize: '80px' }}>MedImg</h1>
           <Box mt={2} mb={5}>
             <Typography variant='h4' color='white'>
-              Own Your Health
+              Secure Medical Imaging on the Blockchain
             </Typography>
           </Box>
           <ActionSection />
