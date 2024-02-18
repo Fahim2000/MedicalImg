@@ -3,7 +3,7 @@ import React from 'react'
 import AccountBalanceWalletRoundedIcon from '@mui/icons-material/AccountBalanceWalletRounded'
 import VideoCover from 'react-video-cover'
 import BackgroundVideo from '../assets/BackgroundVideo.mp4'
-import logo from '../assets/tealNoBG-cropped.png'
+
 import useEth from '../contexts/EthContext/useEth'
 import PersonAddAlt1RoundedIcon from '@mui/icons-material/PersonAddAlt1Rounded'
 import CustomButton from '../components/CustomButton'

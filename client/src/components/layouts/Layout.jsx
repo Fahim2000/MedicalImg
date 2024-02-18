@@ -2,7 +2,7 @@ import { AppBar, Chip, Toolbar, Box, Typography } from '@mui/material'
 import React from 'react'
 import useEth from '../../contexts/EthContext/useEth'
 import PersonRoundedIcon from '@mui/icons-material/PersonRounded'
-import logo from '../../assets/tealNoBG-cropped.png'
+
 import { grey, teal } from '@mui/material/colors'
 
 const HeaderAppBar = () => {
